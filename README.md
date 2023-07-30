@@ -2,7 +2,7 @@
 I'm a skilled professional with expertise in programming languages such as C++, JavaScript, SQL, and Python. With a strong background in these<br>technologies, i've honed the abilities to develop robust software solutions and web applications. My proficiency in C++ allows to build efficient and<br>optimized programs, while knowledge of JavaScript enables to create interactive and dynamic web experiences. Additionally,I'm well-versed in SQL,<br>empowering to work with databases effectively.<br>
 
 
-## 🌐 Socials::
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divyaannshhh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-srivastav-a00127221/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divyanshsrivastav72) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Divyans09931982) 
 
 # 💻 Tech Stack:
