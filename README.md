@@ -1,6 +1,6 @@
 #  About Me:
-I'm a skilled professional with expertise in programming languages such as C++, JavaScript, SQL, and Python. With a strong background in these<br>technologies, i've honed the abilities to develop robust software solutions and web applications. My proficiency in C++ allows to build efficient and<br>optimized programs, while knowledge of JavaScript enables to create interactive and dynamic web experiences. Additionally,I'm well-versed in SQL,<br>empowering to work with d#  About Me:
-I'm a skilled professional with expertise in programming languages such as C++, JavaScript, SQL, and Python. With a strong background in these<br>technologies, i've honed the abilities to develop robust software solutions and web applications. My proficiency in C++ allows to build efficient and<br>optimized programs, while knowledge of JavaScript enables to create interactive and dynamic web experiences. Additionally,I'm well-versed in SQL,<br>empowering to work with databases effectively.<br>
+I'm a skilled professional with expertise in programming languages such as C++, JavaScript, SQL, and Python. With a strong background in these technologies, i've honed the abilities to develop robust software solutions and web applications. My proficiency in C++ allows to build efficient and optimized programs, while knowledge of JavaScript enables to create interactive and dynamic web experiences. Additionally,I'm well-versed in SQL, empowering to work with  databases effectively.
+
 
 
 ## 🌐 Socials:
