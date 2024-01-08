@@ -1,6 +1,5 @@
 #  About Me:
-I'm a skilled professional with expertise in programming languages such as C++, JavaScript, SQL, and Python. With a strong background in these technologies, i've honed the abilities to develop robust software solutions and web applications. My proficiency in C++ allows to build efficient and optimized programs, while knowledge of JavaScript enables to create interactive and dynamic web experiences. Additionally,I'm well-versed in SQL, empowering to work with  databases effectively..
-
+I am currently in my fourth year pursuing a Bachelor of Technology degree in Information Technology. My academic journey has encompassed a diverse range of technical subjects, including programming, database management, and web development. This coursework has equipped me with robust analytical, problem-solving, and critical thinking skills, attributes I believe would be invaluable to any organization I have the privilege to work with.
 
 
 ## 🌐 Socials:
