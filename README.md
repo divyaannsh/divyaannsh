@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [ReactUtube](vid-player-xi.vercel.app)
 
-- 💬 Ask me about **Reactjs JS Data Analysis**
+- 💬 Ask me about **Reactjs JS Data Analyst**
 
 - 📫 How to reach me **divyanshsrivastav72@gmail.com**
 
